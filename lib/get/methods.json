@@ -1,0 +1,73 @@
+[{
+  "name": "getAllArtists",
+  "path": "/artists/all"
+  }, {
+  "name": "getAttendance",
+  "path": "/attendance/get"
+}, {
+  "name": "getAuthorizationKey",
+  "path": "/authority/get"
+}, {
+  "name": "getBlog",
+  "path": "/blog/get"
+}, {
+  "name": "queryCollections",
+  "path": "/collections/query"
+}, {
+  "name": "getCollection",
+  "path": "/collections/get"
+}, {
+  "name": "getAllJamcharts",
+  "path": "/jamcharts/all"
+}, {
+  "name": "getAllPeople",
+  "path": "/people/all"
+}, {
+  "name": "getPeopleTypes",
+  "path": "/people/get"
+}, {
+  "name": "getPerformersByShow",
+  "path": "/people/byshow"
+}, {
+  "name": "getAppearances",
+  "path": "/people/appearances"
+}, {
+  "name": "getRelationships",
+  "path": "/relationships/get"
+}, {
+  "name": "getReview",
+  "path": "/reviews/get"
+}, {
+  "name": "queryReviews",
+  "path": "/reviews/query"
+}, {
+  "name": "getLatestSetlist",
+  "path": "/setlists/latest"
+}, {
+  "name": "getSetlist",
+  "path": "/setlists/get"
+}, {
+  "name": "getRecentSetlists",
+  "path": "/setlists/recent"
+}, {
+  "name": "tiph",
+  "path": "/setlists/tiph"
+}, {
+  "name": "todayInPhishHistory",
+  "path": "/setlists/tiph"
+}, {
+  "name": "getRandomSetlist",
+  "path": "/setlist/random"
+}, {
+  "name": "getShowLinks",
+  "path": "/shows/links"
+}, {
+  "name": "getUpcomingShows",
+  "path": "/shows/upcoming"
+}, {
+  "name": "getAllVenues",
+  "path": "/venues/all"
+}, {
+  "name": "getVenueDetails",
+  "path": "/venues/get"
+}]

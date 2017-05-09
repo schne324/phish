@@ -1,0 +1,20 @@
+{
+  "name": "phish",
+  "version": "0.0.1",
+  "description": "Phish api wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test --recursive"
+  },
+  "author": "Harris Schneiderman",
+  "license": "MIT",
+  "dependencies": {
+    "query-string": "^4.3.4",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "proxyquire": "^1.7.11"
+  }
+}
